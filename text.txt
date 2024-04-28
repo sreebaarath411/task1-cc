@@ -1,0 +1,1 @@
+A stemmer for English operating on the stem cat should identify such strings as cats, catlike, and catty. A stemming algorithm might also reduce the words fishing, fished, and fisher to the stem fish. The stem need not to be a word, for example the Porter algorithm reduces, argue, argued, argues, arguing, and argus to the stem argu.
